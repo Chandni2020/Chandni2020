@@ -88,9 +88,9 @@
 
 | Certification | Date |
 |---|---|
-| IBM Data Analyst Professional Certificate | Sep 2026 |
-| AI-900: Microsoft Azure AI Fundamentals | Jul 2026 |
-| Google IT Automation with Python | 2026 |
+| IBM Data Analyst Professional Certificate | 2022 |
+| AI-900: Microsoft Azure AI Fundamentals | 2022 |
+| Google IT Automation with Python | 2022 |
 | NPower Canada Junior Data Analyst Program | 2022 |
 | Microsoft Azure Fundamentals AZ-900 | 2022 |
 
